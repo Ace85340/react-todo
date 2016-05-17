@@ -40,6 +40,7 @@
     "moment": "^2.13.0",
     "node-sass": "^3.6.0",
     "react-addons-test-utils": "^15.0.1",
+    "redux": "^3.5.2",
     "sass-loader": "^3.2.0",
     "webpack": "^1.13.0"
   }
